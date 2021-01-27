@@ -1,1 +1,9 @@
-0x03. Git
+0x03. Git 
+
+This project has been made just for practicing and completing tasks.
+
+**Here i learned about:**
+
+> how to write READMEs, 
+> how to commit and help others by commits
+> how to push branches and update them
